@@ -1,4 +1,4 @@
-# Ip-look-up
+# Ip-Look-Up
 This is a IP look up tool for looking IP and it helps us to get information from the ip of any device .
 # Installation (Tested on Kali Linux)
 ```bash
