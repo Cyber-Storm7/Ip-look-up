@@ -14,7 +14,7 @@ pip3 install -r requirement.txt
 python3 iplookup.py
 ```
 # Disclaimer
-Don't use it for illegal purposes. It made for only educational purposes. The creator of the tool won't responsible for illegal uses of this tool
+Don't use it for illegal purposes. It made for only educational purposes. The creator of the tool won't responsible for illegal uses of this tool. Hacking is legal in boundaries of law.
 # My Youtube Channel
 
 http://www.youtube.com/@CyberStorm-5221
