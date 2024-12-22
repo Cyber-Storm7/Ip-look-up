@@ -8,7 +8,7 @@ git clone https://github.com/Cyber-Storm7/Ip-look-up.git
 cd Ip-look-up
 ```
 ```bash
-pip install requirement.txt
+pip3 install -r requirement.txt
 ```
 ```bash
 python3 iplookup.py
