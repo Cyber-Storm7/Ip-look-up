@@ -1,5 +1,5 @@
 # Ip-Look-Up
-This is a IP look up tool for looking IP and it helps us to get information from the ip of any device. It gathers information about any IP from Maxmind Database, ipinfo.io website and using ipwhois module.
+This is a IP look up tool for looking IP and it helps us to get information from the ip of any device, it can also find geolocation of any device. It gathers information about any IP from Maxmind Database, ipinfo.io website and using ipwhois module.
 # Installation (Tested on Kali Linux and Termux)
 ```bash
 git clone https://github.com/Cyber-Storm7/Ip-look-up.git
