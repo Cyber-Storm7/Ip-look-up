@@ -41,7 +41,8 @@ license_key = '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'
 url2 = 'https://ipinfo.io/'  
 url_2 = '?token=2bf898aa276766'
 
-while True:
+try:
+ while True:
     ip_address = input(colored("[*] Enter IP address as input ------> ", 'red', attrs=['bold']))
     print()
     if is_valid_ip(ip_address):
@@ -74,3 +75,5 @@ while True:
     else:
         style_print(f"{ip_address} is not a valid IP address.", 'red')
         print()
+except KeyboardInterrupt:
+    style_print("\n\n[*] Exiting the tool", 'red')
