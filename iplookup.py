@@ -21,7 +21,7 @@ os.system("clear")
 style_print("=================================================", 'red')
 print()
 figlet = Figlet(font="slant")
-ascii_banner = figlet.renderText("  IP Info")
+ascii_banner = figlet.renderText("  Net Pulse")
 lines = ascii_banner.split('\n')
 colors = ["red"]
 for i, line in enumerate(lines):
